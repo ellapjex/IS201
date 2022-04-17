@@ -1,5 +1,17 @@
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    font-style:oblique;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+ul {
+    font-size: 18px;
+    font-weight: normal;
 }
